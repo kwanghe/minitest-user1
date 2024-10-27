@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kwanghe.github.io/minitest-user1/",
+  "homepage": "https://kwanghe.github.io/minitest-user1",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
