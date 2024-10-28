@@ -5,7 +5,7 @@ import './index.css';
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/minitest-user1">
       <App />
     </BrowserRouter>
   </StrictMode>
